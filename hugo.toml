@@ -95,7 +95,7 @@ pagination.pagerSize = 5
 
     [languages.en.params.logo]
       logoText = "0z stuff's"
-      logoHomeLink = "/"
+      logoHomeLink = "/0z"
 
     [languages.en.menu]
       # Submenus is available since v2.1.0
@@ -109,15 +109,15 @@ pagination.pagerSize = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/0z/about"
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
-        url = "/Projects"
+        url = "/0z/Projects"
       [[languages.en.menu.main]]
         identifier = "Writeups"
         name = "Writeups"
-        url = "/writeups"
+        url = "/0z/writeups"
 
 
 [module]
